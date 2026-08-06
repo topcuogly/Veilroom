@@ -1,12 +1,10 @@
-# Veilroom
+# Veilroom (Discontinued)
 
 <p align="center">
   <img src="assets/cover.png" alt="Veilroom cover" width="80%">
 </p>
 
 > Meet privately. Leave nothing behind.
-
-## Discontinued Project
 
 Veilroom is an **ephemeral, host-controlled private group chat** that runs in the
 terminal and connects participants through **temporary Tor v3 onion services**. A
