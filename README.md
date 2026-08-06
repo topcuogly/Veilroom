@@ -28,8 +28,7 @@ uptime for the host), and the active non-host participant count. The main menu
 also includes an **About Veilroom** screen describing the project's purpose.
 
 Veilroom is written in Rust (edition 2024), runs as one application process
-that manages its own isolated `tor` subprocess, and ships as both `.deb` and
-`.rpm` packages.
+that manages its own isolated `tor` subprocess, and ships as `.deb` package.
 
 The current application release is **0.2.0**. Its invitation and wire protocol
 remain **Veilroom Protocol V1**; the application version and protocol version
